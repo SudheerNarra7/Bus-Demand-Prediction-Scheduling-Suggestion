@@ -9,9 +9,6 @@ I've successfully implemented a machine learning backend for the Bus Demand Pred
 ### Machine Learning Model
 
 - **Model Type**: Gradient Boosting Regressor
-- **Mean Absolute Error**: 10.49
-- **Root Mean Squared Error**: 13.54
-- **R² Score**: 0.5436
 - **Training Samples**: 800
 - **Test Samples**: 200
 
