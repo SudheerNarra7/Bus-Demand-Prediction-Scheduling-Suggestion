@@ -1,0 +1,1001 @@
+occasion,Start Location,end location,season,time,no of tickets
+Weekend,3,10,Spring,Afternoon,64.0
+Regular,4,8,Spring,Morning,53.0
+Holiday,7,5,Summer,Evening,92.0
+Weekend,9,2,Summer,Evening,104.0
+Regular,3,5,Spring,Morning,78.0
+Regular,6,10,Winter,Night,28.0
+Regular,4,3,Winter,Evening,55.0
+Special event,2,9,Winter,Night,34.0
+Regular,6,3,Summer,Evening,49.0
+Festival,10,6,Summer,Morning,90.0
+Holiday,4,9,Spring,Afternoon,53.0
+Regular,5,6,Winter,Afternoon,27.0
+Festival,8,5,Spring,Afternoon,61.0
+Weekend,9,8,Summer,Afternoon,36.0
+Special event,4,2,Fall,Morning,27.0
+Special event,4,6,Summer,Afternoon,34.0
+Special event,4,1,Summer,Morning,43.0
+Special event,5,7,Summer,Evening,58.0
+Holiday,9,6,Winter,Night,36.0
+Weekend,8,1,Summer,Night,41.0
+Weekend,1,7,Winter,Afternoon,58.0
+Weekend,10,5,Spring,Night,55.0
+Holiday,8,5,Summer,Night,59.0
+Weekend,7,5,Fall,Morning,45.0
+Regular,6,7,Summer,Night,34.0
+Weekend,9,1,Winter,Morning,64.0
+Regular,6,7,Spring,Night,30.0
+Festival,7,8,Winter,Evening,67.0
+Weekend,2,10,Fall,Afternoon,39.0
+Weekend,3,2,Summer,Night,55.0
+Holiday,9,7,Winter,Morning,55.0
+Special event,1,5,Spring,Evening,74.0
+Regular,9,10,Fall,Night,29.0
+Weekend,3,8,Summer,Morning,64.0
+Regular,3,10,Winter,Afternoon,34.0
+Holiday,7,4,Spring,Morning,61.0
+Festival,1,5,Fall,Night,46.0
+Special event,5,8,Spring,Afternoon,23.0
+Holiday,9,5,Spring,Night,42.0
+Festival,6,8,Winter,Evening,65.0
+Weekend,6,7,Winter,Afternoon,51.0
+Weekend,9,7,Spring,Afternoon,60.0
+Regular,5,8,Fall,Evening,41.0
+Regular,2,3,Winter,Morning,39.0
+Festival,1,4,Winter,Evening,44.0
+Special event,8,4,Winter,Morning,35.0
+Special event,7,6,Fall,Afternoon,27.0
+Special event,8,3,Spring,Night,47.0
+Weekend,7,2,Summer,Night,62.0
+Special event,7,9,Spring,Night,25.0
+Holiday,5,10,Fall,Night,47.0
+Special event,5,2,Fall,Night,27.0
+Festival,10,6,Summer,Morning,70.0
+Regular,2,6,Winter,Afternoon,33.0
+Holiday,10,8,Summer,Afternoon,70.0
+Holiday,10,4,Summer,Afternoon,69.0
+Festival,9,1,Spring,Afternoon,48.0
+Special event,8,1,Spring,Morning,51.0
+Special event,10,5,Spring,Afternoon,41.0
+Festival,6,2,Summer,Evening,97.0
+Weekend,9,10,Spring,Night,52.0
+Regular,8,2,Summer,Afternoon,37.0
+Weekend,7,10,Spring,Afternoon,45.0
+Weekend,9,4,Summer,Morning,62.0
+Weekend,9,8,Fall,Afternoon,52.0
+Regular,7,4,Summer,Evening,69.0
+Special event,4,3,Spring,Morning,53.0
+Weekend,1,2,Spring,Morning,98.0
+Festival,1,10,Fall,Evening,67.0
+Weekend,2,3,Spring,Night,50.0
+Weekend,3,10,Summer,Afternoon,62.0
+Holiday,7,9,Fall,Evening,82.0
+Holiday,3,7,Fall,Evening,62.0
+Weekend,2,6,Spring,Evening,104.0
+Weekend,10,9,Fall,Evening,29.0
+Special event,3,8,Spring,Evening,63.0
+Holiday,9,3,Summer,Night,59.0
+Special event,9,7,Fall,Evening,39.0
+Holiday,9,10,Spring,Morning,104.0
+Special event,1,3,Fall,Morning,25.0
+Regular,5,1,Winter,Night,28.0
+Regular,2,5,Spring,Night,41.0
+Regular,7,2,Spring,Night,50.0
+Weekend,4,2,Winter,Evening,56.0
+Regular,10,8,Summer,Afternoon,32.0
+Holiday,2,6,Spring,Evening,73.0
+Holiday,1,9,Winter,Evening,74.0
+Regular,9,5,Fall,Night,31.0
+Regular,7,6,Summer,Evening,48.0
+Holiday,5,9,Summer,Evening,90.0
+Special event,5,1,Fall,Morning,42.0
+Regular,4,6,Summer,Morning,65.0
+Festival,1,8,Summer,Morning,70.0
+Weekend,5,7,Winter,Morning,58.0
+Regular,1,7,Spring,Night,35.0
+Festival,8,7,Summer,Evening,57.0
+Special event,5,6,Winter,Night,31.0
+Special event,3,5,Winter,Evening,44.0
+Festival,4,2,Summer,Morning,81.0
+Festival,5,3,Spring,Evening,78.0
+Special event,8,7,Fall,Night,21.0
+Holiday,9,7,Fall,Morning,57.0
+Holiday,4,8,Summer,Morning,76.0
+Holiday,5,10,Summer,Morning,68.0
+Holiday,9,8,Fall,Morning,60.0
+Weekend,5,2,Winter,Afternoon,48.0
+Regular,3,6,Summer,Morning,75.0
+Weekend,5,7,Summer,Morning,84.0
+Weekend,5,3,Spring,Morning,86.0
+Weekend,7,6,Spring,Afternoon,57.0
+Holiday,6,3,Fall,Afternoon,27.0
+Regular,6,4,Winter,Night,29.0
+Festival,3,8,Spring,Afternoon,59.0
+Special event,9,5,Winter,Evening,62.0
+Weekend,3,2,Spring,Afternoon,56.0
+Special event,7,9,Spring,Afternoon,41.0
+Weekend,6,9,Spring,Night,58.0
+Holiday,5,9,Spring,Night,44.0
+Festival,9,1,Winter,Afternoon,55.0
+Festival,2,9,Spring,Morning,94.0
+Regular,3,1,Spring,Afternoon,45.0
+Festival,7,8,Fall,Night,36.0
+Weekend,6,7,Winter,Afternoon,57.0
+Special event,3,4,Winter,Morning,30.0
+Weekend,6,5,Fall,Night,50.0
+Weekend,6,3,Summer,Morning,104.0
+Regular,8,7,Fall,Night,24.0
+Regular,8,5,Fall,Night,26.0
+Regular,10,4,Spring,Night,39.0
+Weekend,5,10,Fall,Afternoon,40.0
+Regular,9,8,Summer,Morning,56.0
+Weekend,10,8,Fall,Morning,63.0
+Weekend,10,8,Winter,Night,35.0
+Weekend,5,7,Winter,Evening,68.0
+Festival,2,5,Summer,Evening,66.0
+Special event,1,10,Summer,Night,51.0
+Festival,6,5,Summer,Morning,69.0
+Festival,3,5,Winter,Night,42.0
+Regular,3,5,Spring,Afternoon,45.0
+Regular,6,5,Winter,Night,33.0
+Holiday,5,1,Fall,Evening,65.0
+Holiday,10,4,Winter,Evening,104.0
+Weekend,8,1,Summer,Night,39.0
+Weekend,8,10,Winter,Morning,65.0
+Regular,9,6,Spring,Night,41.0
+Regular,8,3,Summer,Evening,63.0
+Regular,8,3,Summer,Night,29.0
+Festival,7,9,Winter,Afternoon,33.0
+Weekend,2,4,Summer,Night,64.0
+Holiday,5,8,Spring,Night,61.0
+Weekend,1,10,Winter,Afternoon,47.0
+Regular,8,2,Winter,Morning,44.0
+Weekend,5,1,Summer,Evening,70.0
+Special event,4,2,Fall,Morning,43.0
+Regular,5,2,Summer,Evening,57.0
+Weekend,8,7,Spring,Evening,70.0
+Holiday,9,4,Winter,Night,61.0
+Holiday,8,3,Winter,Night,49.0
+Regular,8,6,Summer,Night,29.0
+Holiday,7,8,Winter,Evening,71.0
+Special event,3,4,Spring,Afternoon,31.0
+Special event,5,7,Winter,Evening,48.0
+Weekend,10,2,Spring,Night,104.0
+Holiday,8,4,Spring,Afternoon,48.0
+Regular,7,5,Summer,Night,46.0
+Regular,6,8,Winter,Evening,45.0
+Festival,9,8,Summer,Evening,95.0
+Festival,9,5,Winter,Morning,86.0
+Special event,7,1,Summer,Morning,51.0
+Regular,10,3,Fall,Evening,35.0
+Special event,6,8,Spring,Evening,44.0
+Regular,9,10,Fall,Night,25.0
+Holiday,7,5,Winter,Afternoon,44.0
+Special event,1,8,Winter,Morning,44.0
+Festival,2,3,Fall,Morning,66.0
+Weekend,4,2,Winter,Night,52.0
+Special event,2,10,Spring,Night,39.0
+Festival,3,4,Fall,Night,58.0
+Festival,8,10,Summer,Morning,77.0
+Weekend,9,5,Summer,Night,90.0
+Regular,2,4,Spring,Evening,61.0
+Weekend,10,4,Summer,Night,48.0
+Festival,3,6,Winter,Afternoon,35.0
+Special event,4,8,Spring,Night,42.0
+Festival,10,1,Spring,Night,55.0
+Regular,3,1,Fall,Evening,47.0
+Festival,1,10,Spring,Afternoon,64.0
+Regular,7,8,Fall,Evening,62.0
+Special event,1,5,Spring,Morning,45.0
+Regular,2,9,Winter,Night,20.0
+Weekend,8,2,Winter,Morning,57.0
+Regular,8,10,Winter,Evening,49.0
+Festival,2,4,Spring,Afternoon,61.0
+Weekend,7,10,Summer,Evening,61.0
+Festival,1,9,Spring,Night,60.0
+Festival,9,5,Summer,Evening,88.0
+Special event,1,2,Winter,Morning,104.0
+Holiday,10,8,Winter,Afternoon,46.0
+Weekend,2,4,Winter,Evening,63.0
+Regular,3,5,Winter,Evening,32.0
+Weekend,5,8,Summer,Night,62.0
+Weekend,1,5,Summer,Morning,91.0
+Weekend,4,9,Summer,Night,71.0
+Special event,9,6,Fall,Night,36.0
+Holiday,4,1,Winter,Evening,45.0
+Festival,3,4,Spring,Night,47.0
+Regular,10,8,Spring,Morning,90.0
+Holiday,7,3,Spring,Night,64.0
+Special event,6,5,Fall,Evening,46.0
+Weekend,8,9,Spring,Evening,104.0
+Festival,8,6,Winter,Afternoon,50.0
+Regular,4,7,Summer,Evening,67.0
+Holiday,2,10,Spring,Evening,97.0
+Holiday,6,5,Spring,Night,66.0
+Weekend,10,4,Fall,Evening,59.0
+Special event,8,9,Winter,Morning,48.0
+Special event,10,6,Summer,Afternoon,32.0
+Regular,9,10,Winter,Afternoon,28.0
+Special event,9,8,Fall,Evening,37.0
+Regular,10,2,Fall,Afternoon,30.0
+Regular,1,8,Spring,Morning,79.0
+Special event,4,8,Spring,Night,24.0
+Festival,4,3,Winter,Morning,71.0
+Special event,7,5,Summer,Morning,36.0
+Regular,5,3,Fall,Evening,38.0
+Regular,3,4,Winter,Afternoon,36.0
+Festival,3,1,Winter,Afternoon,45.0
+Regular,9,8,Spring,Evening,42.0
+Regular,3,1,Spring,Morning,46.0
+Weekend,7,1,Summer,Afternoon,66.0
+Holiday,10,2,Summer,Morning,69.0
+Weekend,5,10,Spring,Night,61.0
+Holiday,8,3,Fall,Evening,63.0
+Special event,9,7,Summer,Morning,47.0
+Weekend,5,10,Summer,Afternoon,104.0
+Special event,4,3,Summer,Morning,61.0
+Special event,7,8,Summer,Evening,32.0
+Special event,1,10,Spring,Morning,56.0
+Special event,3,10,Spring,Morning,47.0
+Special event,10,3,Fall,Afternoon,35.0
+Festival,1,6,Winter,Night,37.0
+Weekend,2,1,Winter,Morning,61.0
+Weekend,10,6,Spring,Night,64.0
+Special event,4,10,Winter,Morning,49.0
+Special event,6,5,Fall,Evening,31.0
+Holiday,2,5,Summer,Morning,76.0
+Weekend,1,5,Summer,Afternoon,52.0
+Weekend,9,4,Summer,Evening,71.0
+Special event,8,3,Spring,Afternoon,52.0
+Festival,3,8,Winter,Afternoon,48.0
+Festival,2,7,Winter,Evening,47.0
+Regular,10,3,Winter,Afternoon,35.0
+Regular,4,5,Fall,Morning,89.0
+Holiday,3,9,Spring,Morning,98.0
+Holiday,3,5,Winter,Evening,43.0
+Special event,4,3,Winter,Morning,37.0
+Weekend,9,10,Spring,Evening,102.0
+Weekend,1,9,Winter,Evening,54.0
+Special event,4,2,Spring,Morning,59.0
+Holiday,3,2,Winter,Night,51.0
+Regular,6,9,Spring,Evening,44.0
+Holiday,8,1,Summer,Morning,80.0
+Weekend,7,6,Winter,Morning,22.0
+Festival,2,4,Spring,Evening,65.0
+Holiday,6,1,Summer,Night,55.0
+Holiday,5,4,Fall,Morning,47.0
+Regular,5,10,Spring,Night,51.0
+Special event,6,4,Winter,Evening,29.0
+Festival,6,3,Fall,Morning,57.0
+Weekend,8,10,Winter,Evening,64.0
+Festival,4,6,Winter,Night,57.0
+Holiday,7,8,Spring,Night,41.0
+Holiday,4,5,Fall,Night,55.0
+Weekend,2,4,Summer,Night,58.0
+Festival,9,5,Fall,Night,36.0
+Regular,1,2,Fall,Evening,45.0
+Festival,7,5,Summer,Morning,85.0
+Holiday,8,5,Spring,Night,51.0
+Special event,2,6,Winter,Afternoon,30.0
+Special event,8,2,Fall,Evening,38.0
+Regular,7,8,Fall,Night,46.0
+Holiday,10,5,Winter,Night,50.0
+Holiday,2,3,Spring,Night,77.0
+Regular,1,6,Spring,Evening,41.0
+Weekend,4,1,Winter,Morning,89.0
+Weekend,9,8,Winter,Morning,38.0
+Regular,8,5,Winter,Night,29.0
+Holiday,5,9,Spring,Afternoon,65.0
+Holiday,2,5,Fall,Night,47.0
+Regular,6,4,Summer,Afternoon,34.0
+Festival,8,6,Fall,Evening,60.0
+Weekend,6,3,Winter,Evening,56.0
+Special event,2,10,Winter,Morning,37.0
+Holiday,6,1,Summer,Morning,95.0
+Regular,10,9,Fall,Morning,44.0
+Regular,1,9,Fall,Afternoon,25.0
+Special event,5,10,Winter,Afternoon,35.0
+Festival,4,8,Winter,Evening,66.0
+Regular,6,7,Winter,Evening,48.0
+Special event,5,8,Winter,Afternoon,33.0
+Regular,10,8,Winter,Afternoon,25.0
+Special event,7,2,Summer,Evening,48.0
+Holiday,2,10,Winter,Morning,72.0
+Holiday,6,5,Spring,Evening,91.0
+Regular,5,1,Spring,Night,38.0
+Weekend,7,8,Summer,Afternoon,59.0
+Holiday,5,10,Winter,Morning,79.0
+Regular,9,4,Spring,Evening,48.0
+Weekend,6,2,Winter,Night,49.0
+Regular,10,1,Summer,Night,37.0
+Weekend,1,3,Spring,Night,55.0
+Holiday,1,6,Summer,Night,71.0
+Festival,1,3,Winter,Evening,73.0
+Weekend,3,7,Spring,Afternoon,68.0
+Regular,2,7,Spring,Afternoon,49.0
+Special event,3,9,Summer,Evening,54.0
+Regular,6,1,Fall,Evening,47.0
+Special event,4,10,Winter,Afternoon,28.0
+Regular,2,10,Winter,Afternoon,31.0
+Regular,6,2,Spring,Night,37.0
+Special event,8,10,Winter,Evening,42.0
+Festival,6,3,Summer,Evening,91.0
+Festival,4,3,Summer,Afternoon,48.0
+Festival,5,4,Spring,Night,82.0
+Regular,10,7,Summer,Morning,43.0
+Holiday,2,7,Spring,Evening,62.0
+Festival,9,8,Spring,Night,72.0
+Regular,10,9,Fall,Night,34.0
+Holiday,8,6,Spring,Evening,92.0
+Weekend,10,5,Fall,Evening,70.0
+Holiday,1,2,Summer,Night,58.0
+Special event,7,8,Winter,Evening,34.0
+Weekend,2,10,Spring,Morning,83.0
+Special event,7,10,Spring,Morning,47.0
+Holiday,4,2,Winter,Afternoon,53.0
+Festival,10,2,Spring,Night,56.0
+Special event,10,6,Spring,Evening,45.0
+Special event,1,7,Summer,Night,36.0
+Festival,4,3,Fall,Night,48.0
+Weekend,8,4,Fall,Evening,55.0
+Special event,5,3,Spring,Morning,45.0
+Holiday,8,7,Spring,Evening,85.0
+Festival,8,10,Spring,Morning,85.0
+Regular,9,4,Fall,Night,26.0
+Weekend,5,4,Fall,Morning,57.0
+Festival,6,2,Summer,Night,61.0
+Special event,2,10,Summer,Evening,38.0
+Special event,8,5,Summer,Morning,39.0
+Festival,7,3,Summer,Night,50.0
+Weekend,7,6,Summer,Afternoon,56.0
+Holiday,6,3,Winter,Evening,66.0
+Special event,6,8,Fall,Morning,54.0
+Festival,10,6,Summer,Evening,95.0
+Special event,8,9,Spring,Morning,52.0
+Regular,3,4,Fall,Morning,62.0
+Festival,3,8,Winter,Evening,50.0
+Regular,5,1,Summer,Afternoon,38.0
+Festival,2,5,Spring,Afternoon,55.0
+Festival,4,10,Winter,Evening,67.0
+Regular,3,9,Fall,Night,25.0
+Weekend,3,8,Fall,Afternoon,49.0
+Regular,2,10,Winter,Morning,54.0
+Festival,6,5,Spring,Afternoon,57.0
+Festival,8,10,Fall,Morning,68.0
+Special event,6,7,Fall,Morning,104.0
+Holiday,10,5,Spring,Morning,75.0
+Special event,1,9,Summer,Morning,57.0
+Festival,1,2,Winter,Morning,63.0
+Regular,6,2,Summer,Evening,55.0
+Regular,6,3,Fall,Afternoon,25.0
+Special event,6,3,Winter,Evening,42.0
+Holiday,3,4,Spring,Afternoon,64.0
+Weekend,8,6,Winter,Afternoon,58.0
+Festival,5,1,Fall,Afternoon,53.0
+Special event,9,10,Winter,Afternoon,42.0
+Weekend,1,2,Summer,Afternoon,49.0
+Festival,1,6,Winter,Morning,73.0
+Weekend,1,7,Winter,Evening,65.0
+Special event,5,9,Spring,Afternoon,56.0
+Holiday,3,8,Spring,Morning,68.0
+Festival,8,3,Fall,Evening,52.0
+Holiday,1,5,Spring,Night,51.0
+Festival,8,9,Fall,Morning,36.0
+Holiday,3,6,Fall,Afternoon,40.0
+Holiday,7,8,Winter,Morning,53.0
+Weekend,7,10,Winter,Evening,64.0
+Regular,4,3,Fall,Night,32.0
+Regular,5,8,Summer,Evening,75.0
+Weekend,3,10,Winter,Afternoon,53.0
+Weekend,5,6,Fall,Evening,55.0
+Regular,10,7,Spring,Evening,44.0
+Special event,5,4,Spring,Afternoon,42.0
+Holiday,9,10,Summer,Night,43.0
+Holiday,3,9,Summer,Evening,104.0
+Regular,4,1,Winter,Afternoon,37.0
+Weekend,2,8,Winter,Evening,57.0
+Holiday,7,6,Winter,Morning,41.0
+Special event,9,2,Fall,Evening,104.0
+Holiday,9,2,Spring,Night,57.0
+Special event,10,4,Spring,Morning,68.0
+Regular,7,2,Summer,Afternoon,39.0
+Holiday,8,5,Spring,Night,51.0
+Holiday,1,10,Summer,Morning,81.0
+Holiday,10,9,Summer,Afternoon,59.0
+Weekend,6,2,Spring,Morning,74.0
+Holiday,2,10,Fall,Evening,70.0
+Regular,2,7,Winter,Morning,33.0
+Holiday,5,9,Fall,Morning,61.0
+Holiday,6,3,Spring,Morning,83.0
+Regular,1,4,Winter,Evening,46.0
+Festival,8,1,Fall,Night,51.0
+Festival,4,7,Fall,Evening,48.0
+Weekend,10,1,Summer,Evening,56.0
+Special event,4,8,Winter,Morning,52.0
+Holiday,4,7,Winter,Night,47.0
+Regular,5,3,Fall,Night,25.0
+Weekend,5,4,Winter,Evening,104.0
+Special event,10,2,Spring,Morning,55.0
+Festival,7,8,Winter,Evening,77.0
+Regular,2,6,Spring,Afternoon,39.0
+Regular,3,4,Winter,Evening,59.0
+Holiday,9,2,Winter,Night,60.0
+Festival,5,8,Summer,Morning,77.0
+Weekend,2,4,Winter,Evening,75.0
+Holiday,2,6,Fall,Afternoon,50.0
+Special event,3,5,Winter,Evening,53.0
+Weekend,4,6,Winter,Night,36.0
+Special event,3,4,Summer,Afternoon,44.0
+Holiday,10,5,Fall,Afternoon,54.0
+Regular,10,3,Summer,Evening,35.0
+Regular,2,3,Summer,Morning,41.0
+Special event,10,5,Fall,Night,17.0
+Regular,6,5,Spring,Morning,51.0
+Holiday,2,10,Fall,Night,51.0
+Weekend,2,6,Fall,Evening,81.0
+Weekend,7,4,Summer,Morning,83.0
+Weekend,10,9,Fall,Night,59.0
+Regular,8,7,Winter,Morning,30.0
+Special event,10,6,Spring,Night,25.0
+Special event,1,6,Summer,Evening,53.0
+Weekend,1,4,Spring,Evening,88.0
+Festival,6,5,Winter,Evening,62.0
+Weekend,10,6,Fall,Evening,36.0
+Festival,6,1,Winter,Night,44.0
+Festival,9,2,Winter,Night,33.0
+Special event,3,7,Winter,Afternoon,34.0
+Special event,8,6,Winter,Morning,45.0
+Regular,3,7,Fall,Evening,34.0
+Festival,4,5,Spring,Afternoon,52.0
+Special event,6,2,Winter,Morning,33.0
+Regular,10,5,Spring,Evening,80.0
+Holiday,7,8,Summer,Evening,97.0
+Holiday,5,6,Summer,Afternoon,46.0
+Weekend,2,4,Spring,Evening,90.0
+Festival,4,5,Fall,Morning,56.0
+Regular,7,2,Winter,Morning,35.0
+Regular,8,5,Summer,Night,57.0
+Regular,10,7,Winter,Morning,33.0
+Regular,5,6,Summer,Evening,48.0
+Special event,9,4,Summer,Night,29.0
+Special event,4,10,Winter,Afternoon,41.0
+Weekend,1,10,Summer,Evening,82.0
+Festival,5,4,Summer,Night,50.0
+Festival,10,1,Summer,Afternoon,61.0
+Special event,3,1,Winter,Morning,41.0
+Special event,3,6,Fall,Night,28.0
+Weekend,5,9,Winter,Morning,70.0
+Festival,1,3,Fall,Night,51.0
+Regular,4,8,Fall,Evening,37.0
+Regular,8,2,Winter,Evening,37.0
+Regular,2,4,Winter,Morning,39.0
+Special event,3,9,Spring,Night,21.0
+Regular,5,2,Fall,Morning,29.0
+Special event,4,2,Spring,Evening,69.0
+Regular,2,7,Spring,Night,51.0
+Regular,10,4,Fall,Night,28.0
+Holiday,5,7,Spring,Morning,91.0
+Holiday,1,6,Fall,Afternoon,47.0
+Festival,2,10,Fall,Night,72.0
+Festival,5,9,Spring,Afternoon,71.0
+Holiday,2,10,Winter,Evening,61.0
+Holiday,9,2,Summer,Afternoon,47.0
+Holiday,10,1,Fall,Afternoon,30.0
+Regular,3,6,Summer,Afternoon,40.0
+Regular,7,2,Spring,Evening,69.0
+Weekend,9,5,Winter,Evening,45.0
+Weekend,7,1,Spring,Morning,71.0
+Holiday,6,4,Winter,Morning,49.0
+Holiday,3,9,Summer,Night,78.0
+Weekend,6,1,Winter,Night,52.0
+Festival,4,3,Spring,Night,58.0
+Festival,3,4,Fall,Morning,81.0
+Regular,5,10,Summer,Evening,55.0
+Regular,3,8,Winter,Afternoon,24.0
+Holiday,10,5,Spring,Evening,104.0
+Festival,3,10,Winter,Night,49.0
+Festival,5,1,Fall,Night,35.0
+Weekend,3,4,Fall,Evening,60.0
+Regular,1,7,Winter,Afternoon,24.0
+Weekend,9,5,Fall,Afternoon,32.0
+Holiday,6,4,Spring,Night,69.0
+Weekend,3,5,Spring,Night,80.0
+Regular,6,5,Winter,Evening,30.0
+Regular,10,3,Summer,Evening,91.0
+Holiday,1,4,Fall,Morning,54.0
+Weekend,10,4,Fall,Afternoon,40.0
+Festival,3,5,Spring,Morning,72.0
+Festival,8,2,Winter,Evening,104.0
+Festival,9,10,Spring,Morning,82.0
+Special event,8,5,Summer,Afternoon,32.0
+Regular,10,5,Fall,Morning,44.0
+Special event,5,9,Spring,Evening,54.0
+Special event,8,10,Spring,Morning,51.0
+Regular,10,4,Winter,Night,24.0
+Weekend,9,4,Winter,Night,39.0
+Holiday,5,1,Fall,Morning,72.0
+Weekend,1,10,Winter,Night,49.0
+Regular,4,10,Summer,Night,47.0
+Festival,2,10,Winter,Night,45.0
+Regular,5,9,Fall,Morning,48.0
+Holiday,7,6,Summer,Morning,54.0
+Holiday,5,7,Fall,Morning,69.0
+Special event,6,8,Fall,Afternoon,26.0
+Weekend,2,10,Winter,Night,50.0
+Festival,3,2,Winter,Afternoon,38.0
+Regular,10,5,Fall,Morning,26.0
+Holiday,10,6,Spring,Night,39.0
+Special event,7,9,Fall,Night,30.0
+Special event,7,6,Fall,Night,31.0
+Regular,5,4,Fall,Afternoon,24.0
+Regular,2,6,Fall,Night,33.0
+Weekend,4,9,Summer,Afternoon,39.0
+Regular,1,2,Spring,Night,38.0
+Special event,8,6,Summer,Evening,41.0
+Weekend,10,4,Winter,Morning,54.0
+Regular,8,3,Winter,Night,30.0
+Holiday,10,1,Spring,Night,48.0
+Special event,7,5,Spring,Night,36.0
+Special event,8,1,Fall,Evening,50.0
+Weekend,6,4,Spring,Afternoon,51.0
+Holiday,3,4,Summer,Morning,95.0
+Festival,3,8,Spring,Evening,63.0
+Special event,7,10,Spring,Night,43.0
+Regular,6,9,Winter,Morning,54.0
+Special event,4,2,Winter,Night,15.0
+Holiday,3,4,Spring,Morning,68.0
+Regular,6,8,Spring,Evening,60.0
+Regular,7,8,Fall,Afternoon,28.0
+Holiday,7,3,Spring,Evening,104.0
+Festival,10,2,Winter,Afternoon,39.0
+Regular,7,9,Fall,Afternoon,30.0
+Festival,7,2,Fall,Night,43.0
+Festival,6,10,Winter,Night,55.0
+Holiday,6,10,Spring,Night,61.0
+Special event,7,6,Winter,Evening,44.0
+Festival,5,2,Fall,Morning,57.0
+Festival,2,10,Spring,Evening,73.0
+Holiday,7,5,Summer,Afternoon,53.0
+Weekend,10,7,Summer,Morning,88.0
+Special event,6,4,Summer,Night,35.0
+Festival,2,1,Summer,Night,61.0
+Special event,2,10,Winter,Night,42.0
+Weekend,7,8,Fall,Night,52.0
+Weekend,8,2,Spring,Afternoon,54.0
+Holiday,7,5,Fall,Morning,78.0
+Regular,6,9,Winter,Morning,38.0
+Special event,1,4,Summer,Night,23.0
+Holiday,10,5,Spring,Evening,65.0
+Regular,4,10,Fall,Morning,26.0
+Festival,2,7,Winter,Night,41.0
+Regular,10,5,Fall,Night,30.0
+Weekend,10,5,Fall,Evening,84.0
+Festival,6,2,Winter,Night,47.0
+Regular,6,1,Spring,Night,37.0
+Special event,9,2,Winter,Night,34.0
+Special event,1,4,Winter,Night,16.0
+Holiday,2,1,Fall,Evening,65.0
+Holiday,2,10,Fall,Evening,72.0
+Holiday,8,5,Winter,Afternoon,31.0
+Holiday,9,8,Fall,Afternoon,55.0
+Weekend,6,5,Spring,Night,62.0
+Weekend,2,10,Summer,Evening,104.0
+Special event,7,4,Summer,Night,43.0
+Weekend,9,3,Winter,Night,65.0
+Holiday,8,10,Winter,Night,46.0
+Festival,5,4,Fall,Afternoon,47.0
+Festival,7,1,Summer,Afternoon,53.0
+Regular,7,9,Winter,Afternoon,104.0
+Holiday,7,4,Summer,Night,68.0
+Weekend,4,6,Fall,Morning,52.0
+Regular,4,7,Fall,Morning,42.0
+Special event,2,6,Summer,Morning,49.0
+Special event,5,7,Fall,Night,32.0
+Holiday,5,4,Summer,Afternoon,62.0
+Weekend,9,6,Fall,Night,54.0
+Special event,10,3,Winter,Afternoon,26.0
+Weekend,8,2,Summer,Morning,77.0
+Regular,3,10,Summer,Night,31.0
+Festival,2,4,Summer,Night,53.0
+Holiday,4,2,Winter,Morning,67.0
+Regular,5,3,Winter,Afternoon,34.0
+Holiday,7,6,Fall,Night,36.0
+Festival,9,1,Summer,Morning,96.0
+Special event,6,3,Winter,Morning,104.0
+Holiday,3,10,Winter,Night,48.0
+Regular,6,9,Winter,Night,61.0
+Festival,7,8,Summer,Morning,69.0
+Regular,3,5,Summer,Morning,104.0
+Special event,5,3,Winter,Afternoon,19.0
+Weekend,9,4,Summer,Night,76.0
+Weekend,5,10,Summer,Night,66.0
+Special event,3,1,Fall,Night,29.0
+Regular,1,5,Spring,Morning,57.0
+Weekend,9,7,Fall,Evening,48.0
+Festival,3,2,Fall,Night,67.0
+Regular,5,8,Fall,Evening,43.0
+Special event,9,1,Summer,Night,39.0
+Festival,8,6,Summer,Afternoon,66.0
+Regular,2,10,Spring,Afternoon,42.0
+Festival,2,5,Summer,Night,61.0
+Weekend,10,1,Winter,Morning,53.0
+Weekend,8,6,Fall,Morning,68.0
+Regular,1,7,Summer,Evening,75.0
+Special event,1,5,Fall,Night,38.0
+Festival,2,4,Summer,Morning,104.0
+Regular,9,8,Fall,Afternoon,26.0
+Special event,7,10,Summer,Morning,43.0
+Special event,4,1,Spring,Evening,53.0
+Festival,5,4,Winter,Night,45.0
+Weekend,7,9,Summer,Afternoon,71.0
+Festival,5,3,Summer,Afternoon,38.0
+Holiday,1,8,Summer,Evening,104.0
+Special event,10,9,Winter,Afternoon,29.0
+Special event,8,3,Summer,Morning,49.0
+Regular,1,9,Winter,Morning,33.0
+Festival,9,4,Summer,Night,39.0
+Weekend,6,7,Spring,Night,68.0
+Special event,9,8,Summer,Night,39.0
+Festival,10,1,Summer,Night,43.0
+Weekend,5,2,Fall,Afternoon,33.0
+Festival,3,7,Spring,Morning,76.0
+Holiday,1,10,Winter,Night,60.0
+Festival,9,2,Spring,Afternoon,55.0
+Weekend,8,7,Fall,Afternoon,31.0
+Regular,5,3,Fall,Afternoon,28.0
+Holiday,5,7,Spring,Morning,77.0
+Holiday,5,4,Spring,Evening,37.0
+Festival,7,3,Spring,Morning,81.0
+Special event,1,10,Fall,Morning,40.0
+Special event,2,8,Winter,Evening,47.0
+Regular,2,9,Winter,Afternoon,41.0
+Festival,1,7,Spring,Night,71.0
+Special event,9,1,Summer,Night,36.0
+Holiday,8,5,Fall,Evening,49.0
+Holiday,3,10,Summer,Night,88.0
+Regular,4,9,Winter,Night,30.0
+Holiday,9,1,Summer,Morning,82.0
+Regular,3,6,Summer,Morning,54.0
+Special event,10,3,Winter,Morning,43.0
+Special event,5,7,Summer,Morning,53.0
+Festival,10,2,Spring,Night,51.0
+Festival,1,7,Fall,Evening,56.0
+Regular,9,5,Spring,Evening,54.0
+Weekend,8,4,Summer,Afternoon,52.0
+Holiday,1,10,Spring,Afternoon,50.0
+Regular,3,1,Summer,Afternoon,39.0
+Special event,8,6,Winter,Night,28.0
+Special event,3,4,Spring,Morning,71.0
+Regular,2,5,Spring,Night,18.0
+Holiday,6,8,Fall,Afternoon,54.0
+Festival,1,4,Summer,Night,73.0
+Festival,6,9,Summer,Afternoon,34.0
+Regular,9,5,Winter,Evening,39.0
+Regular,4,2,Winter,Morning,38.0
+Regular,3,7,Winter,Afternoon,32.0
+Holiday,5,7,Fall,Evening,53.0
+Festival,3,2,Spring,Evening,63.0
+Weekend,6,8,Winter,Evening,85.0
+Special event,9,6,Spring,Night,46.0
+Holiday,6,5,Winter,Afternoon,56.0
+Special event,2,5,Fall,Afternoon,34.0
+Holiday,8,9,Winter,Afternoon,34.0
+Festival,10,6,Spring,Evening,73.0
+Regular,9,5,Winter,Evening,46.0
+Holiday,4,2,Winter,Afternoon,34.0
+Holiday,7,4,Fall,Afternoon,51.0
+Weekend,4,3,Spring,Night,55.0
+Regular,4,3,Spring,Morning,50.0
+Regular,3,9,Fall,Evening,47.0
+Festival,5,10,Fall,Afternoon,48.0
+Special event,3,7,Summer,Afternoon,36.0
+Festival,1,10,Spring,Morning,100.0
+Festival,4,9,Summer,Morning,64.0
+Regular,10,6,Fall,Evening,47.0
+Regular,1,3,Fall,Morning,46.0
+Regular,10,2,Spring,Night,36.0
+Holiday,6,2,Spring,Evening,87.0
+Holiday,3,1,Spring,Morning,61.0
+Special event,1,2,Winter,Night,35.0
+Regular,1,9,Summer,Afternoon,37.0
+Weekend,9,3,Summer,Morning,73.0
+Weekend,7,5,Fall,Morning,76.0
+Weekend,7,1,Fall,Morning,54.0
+Weekend,5,1,Fall,Night,32.0
+Regular,8,3,Fall,Morning,28.0
+Regular,7,8,Winter,Evening,47.0
+Special event,4,9,Fall,Morning,31.0
+Regular,7,8,Fall,Morning,56.0
+Regular,2,4,Fall,Afternoon,17.0
+Special event,9,3,Spring,Evening,73.0
+Holiday,8,5,Winter,Morning,65.0
+Regular,8,6,Summer,Evening,53.0
+Regular,8,5,Fall,Morning,37.0
+Special event,3,2,Spring,Evening,58.0
+Regular,8,5,Winter,Night,44.0
+Regular,10,5,Spring,Evening,66.0
+Festival,3,4,Spring,Afternoon,59.0
+Festival,8,4,Fall,Afternoon,46.0
+Holiday,2,9,Spring,Evening,75.0
+Regular,3,9,Winter,Afternoon,29.0
+Special event,6,8,Fall,Evening,44.0
+Holiday,3,6,Winter,Night,29.0
+Regular,5,7,Winter,Morning,30.0
+Regular,9,2,Winter,Morning,48.0
+Weekend,7,4,Fall,Evening,65.0
+Special event,7,4,Summer,Afternoon,37.0
+Regular,8,9,Summer,Evening,54.0
+Festival,5,2,Winter,Morning,67.0
+Festival,6,10,Summer,Evening,73.0
+Festival,9,10,Summer,Evening,69.0
+Special event,3,5,Winter,Night,31.0
+Weekend,8,6,Spring,Morning,65.0
+Special event,6,8,Winter,Afternoon,32.0
+Holiday,10,8,Fall,Night,29.0
+Regular,7,5,Winter,Afternoon,36.0
+Regular,3,9,Spring,Evening,59.0
+Special event,1,10,Spring,Afternoon,40.0
+Festival,2,6,Summer,Evening,97.0
+Holiday,5,3,Summer,Night,77.0
+Holiday,10,2,Winter,Night,54.0
+Special event,10,2,Winter,Evening,26.0
+Holiday,9,7,Spring,Evening,60.0
+Holiday,6,2,Summer,Evening,71.0
+Festival,5,1,Spring,Night,58.0
+Holiday,5,3,Fall,Evening,69.0
+Regular,7,1,Fall,Evening,35.0
+Regular,5,9,Fall,Evening,43.0
+Festival,3,9,Summer,Morning,69.0
+Holiday,8,6,Fall,Night,39.0
+Holiday,1,9,Summer,Night,42.0
+Special event,4,1,Spring,Night,31.0
+Holiday,6,5,Spring,Night,42.0
+Holiday,6,1,Summer,Morning,65.0
+Holiday,7,4,Fall,Evening,76.0
+Festival,5,2,Fall,Evening,51.0
+Weekend,6,10,Summer,Night,89.0
+Special event,10,6,Fall,Night,32.0
+Holiday,8,9,Spring,Evening,84.0
+Weekend,4,10,Spring,Evening,67.0
+Weekend,6,9,Fall,Morning,71.0
+Regular,4,10,Summer,Afternoon,34.0
+Regular,9,3,Fall,Evening,43.0
+Weekend,9,3,Fall,Night,68.0
+Holiday,9,5,Spring,Night,57.0
+Festival,5,6,Summer,Afternoon,71.0
+Special event,9,10,Fall,Night,25.0
+Festival,3,9,Spring,Evening,81.0
+Special event,7,1,Winter,Night,40.0
+Weekend,10,7,Summer,Evening,71.0
+Holiday,6,3,Winter,Morning,85.0
+Special event,6,7,Winter,Afternoon,34.0
+Regular,1,8,Summer,Morning,48.0
+Festival,6,9,Winter,Evening,70.0
+Festival,7,1,Spring,Morning,97.0
+Regular,7,4,Winter,Afternoon,33.0
+Regular,8,9,Spring,Morning,37.0
+Special event,3,9,Summer,Morning,46.0
+Festival,2,5,Summer,Night,55.0
+Regular,10,8,Winter,Afternoon,29.0
+Holiday,1,6,Winter,Evening,70.0
+Weekend,4,2,Winter,Night,46.0
+Holiday,6,10,Winter,Afternoon,32.0
+Special event,2,3,Winter,Morning,45.0
+Holiday,2,9,Summer,Night,65.0
+Regular,1,8,Spring,Morning,91.0
+Regular,2,10,Winter,Night,36.0
+Holiday,3,5,Fall,Night,52.0
+Special event,6,7,Winter,Evening,45.0
+Weekend,5,7,Summer,Afternoon,57.0
+Special event,3,9,Winter,Afternoon,20.0
+Festival,9,5,Fall,Morning,68.0
+Regular,5,10,Spring,Morning,56.0
+Regular,3,1,Spring,Night,41.0
+Festival,8,5,Spring,Morning,60.0
+Regular,2,7,Winter,Evening,32.0
+Festival,7,9,Summer,Afternoon,70.0
+Weekend,8,1,Winter,Morning,62.0
+Special event,10,6,Fall,Morning,47.0
+Special event,10,7,Spring,Afternoon,39.0
+Holiday,4,7,Spring,Night,58.0
+Weekend,4,9,Spring,Morning,97.0
+Regular,9,3,Fall,Afternoon,26.0
+Regular,9,3,Summer,Evening,55.0
+Holiday,7,6,Fall,Evening,57.0
+Regular,4,10,Winter,Afternoon,27.0
+Special event,7,5,Winter,Morning,39.0
+Special event,10,3,Winter,Evening,43.0
+Holiday,3,2,Summer,Afternoon,52.0
+Festival,4,3,Fall,Afternoon,56.0
+Special event,1,7,Spring,Morning,44.0
+Regular,2,10,Fall,Night,28.0
+Weekend,2,3,Fall,Morning,57.0
+Festival,8,7,Summer,Evening,104.0
+Holiday,7,8,Fall,Evening,65.0
+Festival,4,8,Winter,Afternoon,54.0
+Festival,5,9,Spring,Evening,57.0
+Holiday,2,10,Spring,Morning,86.0
+Festival,5,7,Fall,Morning,74.0
+Festival,3,9,Fall,Evening,64.0
+Festival,8,1,Winter,Morning,76.0
+Weekend,7,2,Spring,Afternoon,52.0
+Festival,5,9,Summer,Morning,104.0
+Special event,4,9,Fall,Evening,61.0
+Special event,9,10,Fall,Evening,38.0
+Festival,8,10,Spring,Night,53.0
+Festival,1,4,Spring,Morning,104.0
+Weekend,3,5,Summer,Night,76.0
+Regular,10,4,Spring,Evening,48.0
+Holiday,4,3,Fall,Afternoon,41.0
+Weekend,10,4,Fall,Afternoon,42.0
+Festival,4,6,Fall,Evening,46.0
+Holiday,3,4,Fall,Morning,51.0
+Regular,9,4,Fall,Afternoon,23.0
+Special event,10,1,Winter,Night,25.0
+Festival,8,1,Summer,Evening,81.0
+Regular,4,3,Fall,Afternoon,47.0
+Regular,6,2,Summer,Evening,71.0
+Holiday,3,2,Fall,Night,36.0
+Regular,4,5,Fall,Night,35.0
+Regular,8,9,Spring,Morning,52.0
+Regular,2,8,Fall,Morning,41.0
+Special event,9,8,Summer,Morning,61.0
+Special event,4,5,Spring,Evening,42.0
+Special event,5,3,Fall,Afternoon,32.0
+Regular,9,2,Fall,Morning,43.0
+Holiday,4,3,Winter,Afternoon,49.0
+Weekend,8,4,Summer,Night,61.0
+Regular,7,10,Winter,Evening,62.0
+Special event,10,5,Fall,Afternoon,26.0
+Festival,6,2,Fall,Evening,56.0
+Festival,10,1,Summer,Morning,71.0
+Special event,10,1,Summer,Afternoon,34.0
+Weekend,3,5,Summer,Morning,71.0
+Festival,3,8,Winter,Morning,77.0
+Weekend,10,8,Winter,Afternoon,57.0
+Special event,3,2,Winter,Morning,37.0
+Special event,4,2,Winter,Night,25.0
+Regular,2,10,Winter,Morning,45.0
+Festival,7,6,Winter,Evening,56.0
+Regular,5,6,Spring,Morning,61.0
+Festival,6,1,Summer,Morning,85.0
+Festival,9,7,Summer,Afternoon,40.0
+Weekend,6,8,Summer,Afternoon,76.0
+Special event,2,7,Winter,Night,104.0
+Holiday,2,4,Spring,Night,51.0
+Regular,3,9,Spring,Morning,50.0
+Special event,8,6,Summer,Evening,57.0
+Regular,8,6,Summer,Morning,58.0
+Regular,8,4,Summer,Night,44.0
+Holiday,2,10,Fall,Morning,88.0
+Holiday,7,8,Summer,Morning,79.0
+Festival,1,6,Spring,Night,49.0
+Festival,3,2,Spring,Evening,59.0
+Festival,8,1,Winter,Morning,53.0
+Special event,5,9,Winter,Night,29.0
+Special event,8,6,Fall,Morning,57.0
+Festival,9,3,Fall,Morning,56.0
+Weekend,7,2,Spring,Afternoon,61.0
+Regular,6,2,Spring,Morning,54.0
+Regular,2,8,Spring,Evening,67.0
+Holiday,6,4,Winter,Evening,94.0
+Weekend,2,10,Spring,Night,52.0
+Festival,10,2,Fall,Morning,56.0
+Holiday,4,5,Summer,Morning,99.0
+Weekend,3,2,Winter,Afternoon,51.0
+Regular,7,6,Summer,Afternoon,53.0
+Regular,3,9,Spring,Evening,91.0
+Special event,3,8,Fall,Evening,38.0
+Holiday,10,4,Summer,Night,65.0
+Special event,4,6,Fall,Afternoon,36.0
+Regular,2,3,Winter,Afternoon,34.0
+Regular,5,10,Spring,Afternoon,42.0
+Weekend,4,3,Fall,Evening,76.0
+Holiday,7,1,Summer,Evening,101.0
+Special event,4,2,Winter,Evening,53.0
+Holiday,3,7,Summer,Evening,92.0
+Weekend,9,6,Fall,Afternoon,43.0
+Holiday,2,4,Fall,Night,46.0
+Regular,9,6,Summer,Morning,67.0
+Regular,4,10,Fall,Night,25.0
+Holiday,6,5,Spring,Afternoon,62.0
+Special event,4,7,Fall,Evening,38.0
+Special event,9,5,Spring,Afternoon,39.0
+Weekend,7,8,Fall,Afternoon,56.0
+Special event,5,6,Spring,Morning,56.0
+Holiday,9,6,Winter,Night,45.0
+Holiday,8,7,Summer,Evening,59.0
+Regular,3,10,Spring,Evening,62.0
+Regular,9,6,Summer,Night,44.0
+Festival,3,10,Spring,Morning,104.0
+Special event,4,3,Summer,Evening,51.0
+Festival,8,2,Fall,Evening,65.0
+Regular,1,10,Winter,Night,31.0
+Regular,3,4,Spring,Night,51.0
+Festival,6,7,Summer,Afternoon,57.0
+Holiday,7,6,Winter,Night,47.0
+Regular,3,8,Summer,Night,65.0
+Regular,3,9,Fall,Evening,43.0
+Weekend,3,6,Summer,Night,53.0
+Weekend,4,5,Fall,Evening,65.0
+Festival,8,9,Winter,Night,54.0
+Holiday,1,4,Spring,Afternoon,46.0
+Special event,10,4,Fall,Night,30.0
+Holiday,9,2,Summer,Night,50.0
+Special event,3,1,Spring,Night,48.0
+Special event,1,10,Winter,Night,20.0
+Special event,8,10,Fall,Afternoon,26.0
+Holiday,6,2,Winter,Evening,67.0
+Regular,4,7,Spring,Evening,71.0
+Regular,8,10,Fall,Afternoon,29.0
+Weekend,9,7,Summer,Evening,72.0
+Regular,5,9,Spring,Evening,75.0
+Weekend,3,6,Summer,Afternoon,41.0
+Holiday,8,1,Spring,Evening,45.0
+Holiday,4,3,Fall,Night,48.0
+Regular,3,5,Fall,Afternoon,40.0
+Holiday,9,10,Spring,Afternoon,46.0
+Weekend,6,7,Winter,Afternoon,51.0
+Holiday,9,2,Spring,Evening,85.0
+Regular,2,5,Spring,Morning,48.0
+Festival,6,8,Summer,Morning,60.0
+Festival,8,9,Spring,Morning,96.0
+Special event,9,2,Fall,Afternoon,33.0
+Weekend,8,5,Fall,Afternoon,44.0
+Special event,6,10,Winter,Night,41.0
+Regular,9,1,Spring,Afternoon,45.0
+Holiday,3,10,Spring,Night,40.0
+Weekend,2,6,Fall,Night,38.0
+Special event,2,4,Fall,Night,29.0
+Holiday,8,9,Fall,Evening,66.0
+Holiday,7,9,Fall,Night,42.0
+Festival,8,3,Winter,Morning,67.0
+Weekend,1,9,Fall,Night,33.0
+Festival,3,6,Fall,Afternoon,57.0
+Holiday,7,3,Summer,Afternoon,57.0
+Regular,10,4,Summer,Evening,104.0
+Weekend,4,10,Fall,Evening,67.0
+Holiday,10,6,Winter,Evening,68.0
+Festival,4,9,Winter,Evening,70.0
+Weekend,3,6,Spring,Morning,89.0
+Holiday,9,5,Summer,Afternoon,66.0
+Weekend,6,7,Fall,Afternoon,56.0
+Festival,1,10,Summer,Morning,85.0
+Regular,10,1,Winter,Night,34.0
+Weekend,8,6,Fall,Morning,61.0
+Festival,9,7,Spring,Night,75.0
+Special event,6,9,Spring,Morning,47.0
+Weekend,10,6,Fall,Afternoon,61.0
+Special event,3,2,Spring,Afternoon,38.0
+Festival,10,8,Summer,Morning,58.0
+Festival,6,3,Spring,Evening,83.0
+Regular,6,9,Fall,Evening,36.0
+Holiday,5,7,Winter,Afternoon,52.0
+Festival,2,3,Spring,Evening,71.0
+Festival,8,4,Winter,Night,40.0
+Festival,7,8,Spring,Morning,50.0
+Regular,1,4,Fall,Evening,38.0
+Festival,6,8,Winter,Evening,32.0
+Holiday,5,3,Summer,Afternoon,39.0
+Festival,6,9,Winter,Afternoon,51.0
+Regular,4,9,Spring,Night,45.0
+Special event,7,6,Fall,Evening,45.0
+Special event,8,4,Fall,Afternoon,24.0
+Holiday,5,1,Fall,Evening,62.0
+Special event,4,10,Summer,Evening,54.0
+Special event,4,7,Fall,Morning,32.0
+Holiday,10,8,Winter,Evening,81.0
+Regular,3,6,Spring,Afternoon,45.0
+Special event,2,5,Fall,Night,28.0
+Weekend,7,8,Summer,Night,58.0
+Regular,7,6,Spring,Morning,56.0
+Festival,6,8,Summer,Night,34.0
+Festival,2,8,Summer,Morning,77.0
+Festival,7,4,Summer,Night,50.0
+Regular,6,1,Summer,Morning,43.0
+Holiday,2,1,Fall,Night,42.0
+Festival,2,6,Winter,Evening,85.0
+Weekend,2,7,Summer,Night,65.0
+Regular,5,9,Spring,Morning,104.0
+Regular,8,7,Winter,Night,50.0

@@ -1,0 +1,41 @@
+
+"""
+Main FastAPI application file for the Bus Demand Prediction API.
+"""
+import os
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from typing import List, Optional
+import json
+
+# Create the main app
+app = FastAPI(
+    title="Bus Demand Prediction API",
+    description="API for predicting bus demand and suggesting schedules",
+    version="0.1.0"
+)
+
+# Add CORS middleware to allow frontend to communicate with backend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # In production, replace with specific origins
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Import routes
+from .api import predictions, locations
+
+# Include routers
+app.include_router(predictions.router, prefix="/api", tags=["predictions"])
+app.include_router(locations.router, prefix="/api", tags=["locations"])
+
+@app.get("/")
+def read_root():
+    return {
+        "message": "Welcome to the Bus Demand Prediction API",
+        "docs_url": "/docs",
+        "version": "0.1.0"
+    }
